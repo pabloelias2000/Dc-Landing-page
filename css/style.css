@@ -1,0 +1,22 @@
+@import 'navbar.css';
+@import 'wrapper.css';
+@import 'main-content.css';
+@import 'personajes.css';
+@import 'footer.css';
+@import 'imagenl.css';
+
+ :root {
+    --black: #202020;
+    --white: #FFFFFF;
+    --white: #dc2626;  
+
+
+
+ }
+ body {
+ 
+    margin: 0;
+    padding: 0;
+    background-color: red;
+
+}
